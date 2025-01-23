@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="script.js" defer></script>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="players-inputs">
+        <div class="player">
+          <label for="player-one">Player one:</label>
+          <input
+            id="player-one"
+            name="player-one"
+            type="text"
+            placeholder="Type your name"
+          />
+          <input
+            name="player-one-symbol"
+            type="text"
+            placeholder="Type your symbol"
+          />
+          <button type="submit" name="player-one-button">Ready</button>
+        </div>
+        <div class="player">
+          <label for="player-two">Player two:</label>
+          <input
+            id="player-two"
+            name="player-two"
+            type="text"
+            placeholder="Type your name"
+          />
+          <input
+            name="player-two-symbol"
+            type="text"
+            placeholder="Type your symbol"
+          />
+          <button type="submit" name="player-two-button">Ready</button>
+        </div>
+      </div>
+
+      <div id="board"></div>
+
+      <div class="score">
+        <div class="player-one-score">
+            <p class="win">Win:</p>
+            <p class="lose">Lost:</p>
+            <p class="tie">Tie:</p>
+        </div>
+        <div class="player-two-score">
+            <p class="win">Win:</p>
+            <p class="lose">Lost:</p>
+            <p class="tie">Tie:</p>
+        </div>
+      </div>
+
+      <div class="reset">
+        <button>Reset</button>
+      </div>
+
+    </div>
+  </body>
+</html>
