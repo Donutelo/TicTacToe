@@ -1,9 +1,3 @@
-Claro! Dei uma olhada rápida no seu projeto [`Donutelo/TicTacToe`](https://github.com/Donutelo/TicTacToe) — é um jogo da velha (tic-tac-toe) em Python para terminal.
-
-Aqui está um rascunho de README que você pode usar como ponto de partida:
-
----
-
 # Tic Tac Toe
 
 Um simples jogo da velha (Tic Tac Toe) jogável via terminal, feito em Python.
