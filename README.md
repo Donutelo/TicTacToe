@@ -17,9 +17,7 @@ cd TicTacToe
 
 2. Execute o script:
 
-```bash
-python3 main.py
-```
+Inicie um server e jogue no navegador de sua escolha.
 
 3. Siga as instruções no terminal para jogar!
 
