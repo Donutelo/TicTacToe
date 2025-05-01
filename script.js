@@ -86,7 +86,6 @@ const TicTacToe = {
   },
 
   resetGame() {
-    this.resetScore();
     board = board.map((item) => (item = ""));
     document.querySelectorAll(".square").forEach((square) => {
       square.classList.remove("disable-click");
@@ -165,6 +164,7 @@ const TicTacToe = {
   resetScore() {
     document.querySelectorAll(".win").forEach(score => {
       score.textContent = "Win: ";
+      
     });
 
     document.querySelectorAll(".lose").forEach(score => {
