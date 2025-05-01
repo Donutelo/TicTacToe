@@ -15,19 +15,9 @@ git clone https://github.com/Donutelo/TicTacToe.git
 cd TicTacToe
 ```
 
-2. Execute o script:
+2. Inicie um server e jogue no navegador de sua escolha.
 
-Inicie um server e jogue no navegador de sua escolha.
-
-3. Siga as instruções no terminal para jogar!
-
-## ⚙️ Requisitos
-
-- Python 3.6 ou superior
-
-## 📦 Estrutura do Projeto
-
-- `main.py` — Arquivo principal que gerencia a execução do jogo.
+3. É só jogar!
 
 ## 🛠️ Funcionalidades
 
