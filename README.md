@@ -29,7 +29,6 @@ cd TicTacToe
 
 - Implementar modo de jogo contra a CPU.
 - Melhorar a interface no terminal (cores, animações simples).
-- Adicionar placar de partidas.
 
 ## 📄 Licença
 
