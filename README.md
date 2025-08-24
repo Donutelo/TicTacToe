@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Um simples jogo da velha (Tic Tac Toe) jogável via terminal, feito em JavaScript.
+Um simples jogo da velha (Tic Tac Toe) jogável via interface gráfico, feito em JavaScript.
 
 ## 📋 Sobre o projeto
 
